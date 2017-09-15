@@ -11,3 +11,5 @@ The script is an entirely self-contained bash script, so it can be downloaded an
 `sh grab_data.sh base_id start end`
 
 You can also rename the file however you'd like and alter the permissions as you see fit.
+
+NOTE: If you do not have TEQC in a location appended to your $PATH, the script will likely fail.
